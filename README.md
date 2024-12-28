@@ -1,1 +1,6 @@
-# high-value-prediction
+# High-value-prediction
+
+
+## Methoodology
+
+
