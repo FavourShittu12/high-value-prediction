@@ -16,7 +16,7 @@ The dataset includes synthetic information about food delivery orders, consistin
 * Encoding: Applied one-hot encoding for categorical variables (e.g., meal_category, payment_method).
 
 ### Exploratory Data Analysis (EDA)
-*Explored correlations between numerical features, such as order_amount and delivery_fee.
+* Explored correlations between numerical features, such as order_amount and delivery_fee.
 
 ### Feature Engineering
 * Temporal Features: Derived delivery duration by calculating the time difference between order_date and delivery_time.
