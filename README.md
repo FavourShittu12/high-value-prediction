@@ -24,7 +24,7 @@ The dataset includes synthetic information about food delivery orders, consistin
 * Numerical Transformations: Normalized or scaled features for consistent analysis.
 
 ### Logistic Regression
-*Model Objective: Predict binary outcomes such as whether an order will be delivered on time.
+* Model Objective: Predict binary outcomes such as whether an order will be delivered on time.
 
 
 # Key Questions Explored
