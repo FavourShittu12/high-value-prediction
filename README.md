@@ -10,6 +10,21 @@ The dataset includes synthetic information about food delivery orders, consistin
 * Other Features: Delivery fees and payment methods.
   
 ## Methoodology
+### Data Preprocessing
+* Handling Missing Values: Ensured data completeness by filling or removing missing values.
+* Feature Creation: Created new columns like delivery duration and customer tenure.
+* Encoding: Applied one-hot encoding for categorical variables (e.g., meal_category, payment_method).
+
+### Exploratory Data Analysis (EDA)
+*Explored correlations between numerical features, such as order_amount and delivery_fee.
+
+### Feature Engineering
+* Temporal Features: Derived delivery duration by calculating the time difference between order_date and delivery_time.
+* Customer Insights: Calculated lifetime value and loyalty points trends.
+* Numerical Transformations: Normalized or scaled features for consistent analysis.
+
+### Logistic Regression
+*Model Objective: Predict binary outcomes such as whether an order will be delivered on time.
 
 
 # Key Questions Explored
